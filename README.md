@@ -1,4 +1,6 @@
 # traditional_liquor_recommendation
+- 최종 발표본: [전통주 ppt  semi-final.pdf](https://github.com/parkchansaem/traditional_liquor_recommendation/files/10121311/ppt.semi-final.pdf)
+
 
 ![전통주 이미지](https://user-images.githubusercontent.com/85976362/204749432-1b5034bd-f95c-4e27-8800-22e97703fa5f.jpeg)
 
